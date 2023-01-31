@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ad1f653-dcf1-4ca1-aa85-f2802e813e4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/MultiploDeTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaCondicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaCondicional2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaEscopo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaFatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaIR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaLacos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaLacos2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaSomatoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaWhile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sintaxe_basica/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sintaxe_basica/Programa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sintaxe_basica/TestaCaracteres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaCaracteres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sintaxe_basica/TestaConversao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaConversao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sintaxe_basica/TestaPontoFlutuante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaPontoFlutuante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sintaxe_basica/TestaValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaValores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sintaxe_basica/TestaVariavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sintaxe_basica/TestaVariavel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +48,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675085480232</updated>
       <workItem from="1675085481392" duration="1537000" />
-      <workItem from="1675104847033" duration="5814000" />
+      <workItem from="1675104847033" duration="6138000" />
+      <workItem from="1675170965221" duration="13738000" />
     </task>
     <servers />
   </component>
